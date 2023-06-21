@@ -15,7 +15,7 @@ The following are the problems we are going to tackle in our entire project:
 
 PROPOSED SYSTEM:
 This system provides USB camera for Eye-Blink Monitoring System and includes a Buzzer to alert the driver when he is drowsy.Once the drowsiness is detected, there is a fixed buzzer inside the car which will alert  the driver until he wakes up.
- NOVELTY:
+ NOVELTY: 
         A  fixed  display which will be placed in the back side of the car that will be useful to the other vehicle behind the car. If the driver is drowsy, the display will show that the driver of the car is drowsy.At last, we are going to fix a new tail light at the back of the car.
 In this process if the driver is drowsy , our new tail light will blink. As far our research is done , this technology has not been created.
 
