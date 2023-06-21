@@ -12,6 +12,7 @@ The following are the problems we are going to tackle in our entire project:
                               1) Driver Drowsiness Detection
                               2) Vehicle Anti Theft Face Recognition System              
                               3) Anti Collision System
+
 PROPOSED SYSTEM:
 This system provides USB camera for Eye-Blink Monitoring System and includes a Buzzer to alert the driver when he is drowsy.Once the drowsiness is detected, there is a fixed buzzer inside the car which will alert  the driver until he wakes up.
  NOVELTY:
